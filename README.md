@@ -27,8 +27,12 @@ Installation & Setup
 
 
 
-Contributors
+Contributors:
+
 Shaden Alturki
+
 Najd Alnasser
+
 Reem Alnasser
+
 Rooad Alhabib
