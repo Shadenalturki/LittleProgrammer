@@ -13,21 +13,11 @@ Tutor Profiles – Displays information about instructors and their courses.
 Course Evaluation – Parents can rate courses and provide feedback.
 Schedule Page – Shows a weekly timetable for enrolled students and assigned tutors.
 
-Technologies Used
-Frontend: HTML, CSS, JavaScript
-Design & Prototyping: Figma
 
 Installation & Setup
-Follow these steps to set up the project on your local machine:
 
-1. Clone the Repository
-sh
-Copy
-Edit
-git clone https://github.com/Shadenalturki/LittleProgrammer.git
-cd LittleProgrammer
-2. Run the Project
-Open index.html in your browser.
+
+
 
 Contributors
 Shaden Alturki
