@@ -4,7 +4,7 @@
 
 Little Programmer is a web-based educational platform designed to help parents register their children for coding courses, manage enrollments, and track their learning progress. The platform also includes an administrator dashboard for managing students, tutors, and courses, ensuring an efficient and user-friendly experience.
 
-Features
+## Features
 
 Home Page – Provides an overview of available courses and platform features.
 
@@ -20,11 +20,22 @@ Course Evaluation – Parents can rate courses and provide feedback.
 
 Schedule Page – Shows a weekly timetable for enrolled students and assigned tutors.
 
+## Technology
+
+HTML, CSS, JavaScript
 
 
-Installation & Setup
+## Installation & Setup
 
+you can view the website here https://littleprogrammerwebsite.github.io/  or 
 
+• Click on the code button. 
+
+• Download .zip file.
+
+• Unzip the file.
+
+• Open index1 folder.
 
 
 Contributors:
