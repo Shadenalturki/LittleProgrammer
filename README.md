@@ -20,7 +20,7 @@ Course Evaluation – Parents can rate courses and provide feedback.
 
 Schedule Page – Shows a weekly timetable for enrolled students and assigned tutors.
 
-## Technology
+## Technologies Used
 
 HTML, CSS, JavaScript
 
