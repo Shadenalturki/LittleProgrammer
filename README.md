@@ -1,5 +1,7 @@
 Little Programmer – Educational Website for Kids
+
 Project Overview
+
 Little Programmer is a web-based educational platform designed to help parents register their children for coding courses, manage enrollments, and track their learning progress. The platform also includes an administrator dashboard for managing students, tutors, and courses, ensuring an efficient and user-friendly experience.
 
 Features
