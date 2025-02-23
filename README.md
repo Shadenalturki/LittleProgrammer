@@ -38,7 +38,7 @@ you can view the website here https://littleprogrammerwebsite.github.io/  or
 • Open index1 folder.
 
 
-Contributors:
+## Contributors:
 
 Shaden Alturki
 
