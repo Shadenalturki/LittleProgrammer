@@ -1,5 +1,5 @@
 # Little Programmer – Educational Website for Kids
-## View the Project Website  
+## Project Website  
 [Click here to view the Website](https://littleprogrammerwebsite.github.io/)
 ## Introduction
 
