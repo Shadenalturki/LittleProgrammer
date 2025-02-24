@@ -1,5 +1,6 @@
 # Little Programmer – Educational Website for Kids
-
+## View the Project Website  
+[Click here to view the Website](https://littleprogrammerwebsite.github.io/)
 ## Introduction
 
 Little Programmer is a web-based educational platform designed to help parents register their children for coding courses, manage enrollments, and track their learning progress. The platform also includes an administrator dashboard for managing students, tutors, and courses, ensuring an efficient and user-friendly experience.
@@ -27,7 +28,7 @@ HTML, CSS, JavaScript
 
 ## Installation & Setup
 
-you can view the website here https://littleprogrammerwebsite.github.io/  or 
+you can view the website by clicking the link above or 
 
 • Click on the code button. 
 
